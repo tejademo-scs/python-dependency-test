@@ -1,6 +1,6 @@
-argparse
-requests
-pathlib
+argparse==1.4.0
+requests==2.30.0
+pathlib==1.0.1
 smartsheet-python-sdk==2.1.0
 boxsdk==2.2.0
 gradio_client==1.5.0
